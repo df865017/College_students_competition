@@ -7,7 +7,7 @@
 -----------------------------------  
 ![github](  https://github.com/df865017/College_students_competition/blob/master/pic/MainEnter.png "github") 
 
-学生用户界面
+学生用户界面 （部分功能展示）
 -----------------------------------  
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student.jpg "github") </br>
 
@@ -15,15 +15,15 @@
 
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student3.jpg "github") 
 
-教委用户界面
+教委用户界面 （部分功能展示）
 -----------------------------------  
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/JiaoWei.png "github") 
 
-学校用户界面
+学校用户界面 （部分功能展示）
 -----------------------------------  
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/School.png "github") 
 
-教师用户界面
+教师用户界面 （部分功能展示）
 -----------------------------------  
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/Teacher.jpg "github") 
 
