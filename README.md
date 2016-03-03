@@ -9,8 +9,8 @@
 
 学生用户界面
 -----------------------------------  
-![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student.jpg "github") 
-![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student2.jpg "github") 
+![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student.jpg "github") </br>
+![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student2.jpg "github") </br>
 ![github]( https://github.com/df865017/College_students_competition/blob/master/pic/student3.jpg "github") 
 
 教委用户界面
